@@ -28,7 +28,7 @@ Archivos de apoyo, entregables académicos, descripciones del proceso UI/UX.
 ## 🧑‍💻 Desarrollado por
 **Jaime Arley Guerrero Fajardo**
 
-Proyecto académico – Diseño de aplicaciones Web – Corporación Universitaria Iberoamericana
+Proyecto académico – Diseño de aplicaciones Web – Corporación Universitaria Iberoamericana Ingenieria de software 
 
 ---
 
